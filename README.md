@@ -1,3 +1,7 @@
+![GitHub](https://img.shields.io/github/license/marcelofilipov/filipov-cash-ui)
+![GitHub repo size](https://img.shields.io/github/repo-size/marcelofilipov/filipov-cash-ui)
+![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/marcelofilipov/filipov-cash-ui)
+
 # FilipovCashUi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
