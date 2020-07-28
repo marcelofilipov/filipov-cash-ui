@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "filipov-cash-ui"
+    }
+  },
+  "defaultProject": "filipov-cash-ui",
+  "cli": {
+    "analytics": "dd713737-2382-4c7d-ac27-e7e7a0415aa4"
+  }
 }
