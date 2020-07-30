@@ -16,6 +16,8 @@ import { LancamentosGridComponent } from './lancamentos-grid/lancamentos-grid.co
 import { LancamentosPesquisaComponent } from './lancamentos-pesquisa/lancamentos-pesquisa.component';
 import { LancamentosCadastroComponent } from './lancamentos-cadastro/lancamentos-cadastro.component';
 
+import { SharedModule } from './../shared/shared.module';
+
 
 
 @NgModule({
@@ -36,7 +38,9 @@ import { LancamentosCadastroComponent } from './lancamentos-cadastro/lancamentos
     CalendarModule,
     SelectButtonModule,
     DropdownModule,
-    InputNumberModule
+    InputNumberModule,
+
+    SharedModule
   ],
   exports: [
     LancamentosCadastroComponent,
